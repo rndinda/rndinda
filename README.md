@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 
 
+
+
 - 📫 How to reach me **rndinda73@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
