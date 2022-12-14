@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **mysql,react**
-
-- 💬 Ask me about **JavaScript,Python**
-
 - 📫 How to reach me **rndinda73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
