@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rose Ndinda</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software development student from Kenya</h3>
 
 - 📫 How to reach me **rndinda73@gmail.com**
 
